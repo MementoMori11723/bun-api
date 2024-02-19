@@ -1,4 +1,4 @@
-# bun---api
+# bun - api
 
 To install dependencies:
 
